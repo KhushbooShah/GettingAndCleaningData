@@ -1,4 +1,4 @@
-GettingAndCleaningData
+Getting And Cleaning Data
 ======================
 
-Course project work for Cour
+Course project work for Coursera
